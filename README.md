@@ -38,7 +38,6 @@ Configuração básica de redes e protocolos<br>
 
 Idiomas<br>
 Português (nativo)<br>
-
 Inglês (técnico)<br>
 
 💼 Experiência Profissional<br>
@@ -46,27 +45,21 @@ Prosys Engenharia - SP<br>
 Desenvolvedor de Software | 2021 - 2024<br>
 
 Desenvolvimento Front-end com Flutter (Android, Web) e Angular.<br>
-
 Back-end Java para automação industrial.<br>
-
 Bancos de dados MySQL.<br>
 
 Concretize Sistemas - GO<br>
 Desenvolvedor Java | 2017 - 2021<br>
 
 Java Web (JSF), Desktop (Swing), Mobile (Android).<br>
-
 APIs RESTful, Flutter (Web/Mobile), Angular.<br>
-
 Bancos de dados: Oracle, MySQL, PostgreSQL.<br>
-
 Delphi 7/12.<br>
 
 Mataboi Alimentos – MT<br>
 Analista Desenvolvedor | 2010 - 2013<br>
 
 Suporte a usuários, administração de servidores Linux/Windows.<br>
-
 Manutenção de redes e computadores.<br>
 
 🎓 Formação Acadêmica<br>
@@ -75,8 +68,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
 
 🔗 Contato & Links<br>
 LinkedIn: Seu perfil LinkedIn ((https://www.linkedin.com/in/uedneymorais/))<br>
-
-GitHub: Seu perfil GitHub (adicione o link se tiver)<br>
 
 📌 Sobre Mim<br>
 Sou um profissional multidisciplinar, com experiência tanto em infraestrutura (redes, servidores, suporte) quanto em desenvolvimento de software. Tenho facilidade para aprender novas tecnologias e trabalhar em equipe, sempre buscando entregar soluções eficientes e de alta qualidade.
