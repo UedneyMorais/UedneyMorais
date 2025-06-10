@@ -1,3 +1,4 @@
+[English Version](link-para-a-versao-em-ingles) | Versão em Português
 # Olá, sou Uedney C. Morais 👋
 
 ### Desenvolvedor Fullstack | Especialista em React e Node.js
