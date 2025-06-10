@@ -1,7 +1,8 @@
 Uedney C. Morais
+<div align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </div>
 Desenvolvedor Full Stack | Java | Flutter | Node.js | Banco de Dados
 
-📞 (62) 98137-3944 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
+📞 (62) 99186-1075 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
 
 📌 Resumo Profissional<br>
 Profissional de TI com mais de 10 anos de experiência, atuando desde suporte técnico até desenvolvimento de software.
