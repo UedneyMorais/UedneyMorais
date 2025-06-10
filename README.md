@@ -1,9 +1,9 @@
 Uedney C. Morais
 Desenvolvedor Full Stack | Java | Flutter | Node.js | Banco de Dados
 
-📞 (62) 99186-1075 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
+📞 (62) 98137-3944 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
 
-📌 Resumo Profissional
+📌 Resumo Profissional<br>
 Profissional de TI com mais de 10 anos de experiência, atuando desde suporte técnico até desenvolvimento de software.
 
 Expertise em:
