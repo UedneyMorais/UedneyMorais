@@ -1,71 +1,79 @@
-Olá, sou Uedney C. Morais 👋
-Desenvolvedor Fullstack | Especialista em Java, Flutter e Node.js
-Sou um profissional de TI com mais de 10 anos de experiência, com uma trajetória que transita do suporte técnico ao desenvolvimento de software. Comecei em 2010 com suporte a servidores Linux e Windows Server, redes e manutenção, migrando para o desenvolvimento, onde construí ampla experiência em Java (Web, Desktop, Mobile), Spring, Flutter, Node.js (Express) e Delphi. Domino bancos de dados como Oracle, PostgreSQL e MySQL, e tenho vasta experiência em integrações com APIs RESTful.
+Uedney C. Morais
+Desenvolvedor Full Stack | Java | Flutter | Node.js | Banco de Dados
 
-Atualmente, busco novas oportunidades para aplicar meu conhecimento técnico em projetos desafiadores e estratégicos.
+📞 (62) 99186-1075 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
 
-Minhas Habilidades e Tecnologias
+📌 Resumo Profissional
+Profissional de TI com mais de 10 anos de experiência, atuando desde suporte técnico até desenvolvimento de software. Expertise em Java (web, desktop, mobile), Flutter, Node.js, Delphi, e bancos de dados como Oracle, PostgreSQL e MySQL. Experiência em automação industrial, APIs RESTful, Docker, Git e mensageria (RabbitMQ). Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e estratégicos.
 
+🛠 Habilidades Técnicas
+Linguagens & Frameworks
+Java: Spring, JSF, Swing, Android
 
+Flutter/Dart: Mobile (Android), Web
 
+JavaScript/TypeScript: Node.js (Express), Angular
 
+Delphi 7/12
 
+Banco de Dados
+Oracle, MySQL, MariaDB, PostgreSQL
 
+DevOps & Ferramentas
+Docker, Git, RabbitMQ
 
+Sistemas Operacionais & Redes
+Linux, Windows
 
+Configuração básica de redes e protocolos
 
-&lt;br>
+Idiomas
+Português (nativo)
 
+Inglês (técnico)
 
+💼 Experiência Profissional
+Prosys Engenharia - SP
+Desenvolvedor de Software | 2021 - 2024
 
+Desenvolvimento Front-end com Flutter (Android, Web) e Angular.
 
+Back-end Java para automação industrial.
 
+Bancos de dados MySQL.
 
+Concretize Sistemas - GO
+Desenvolvedor Java | 2017 - 2021
 
+Java Web (JSF), Desktop (Swing), Mobile (Android).
 
+APIs RESTful, Flutter (Web/Mobile), Angular.
 
+Bancos de dados: Oracle, MySQL, PostgreSQL.
 
-Estatísticas do GitHub
+Delphi 7/12.
 
+Mataboi Alimentos – MT
+Analista Desenvolvedor | 2010 - 2013
 
-Entre em Contato
+Suporte a usuários, administração de servidores Linux/Windows.
 
-  ---
+Manutenção de redes e computadores.
 
-&lt;br>
-&lt;br>
+🎓 Formação Acadêmica
+Tecnólogo em Análise e Desenvolvimento de Sistemas
+📅 2018 - 2021 | Faculdade Anhanguera - Anápolis-GO
 
+🔗 Contato & Links
+LinkedIn: Seu perfil LinkedIn (adicione o link se tiver)
 
-Hi, I'm Uedney C. Morais 👋
-Fullstack Developer | Java, Flutter & Node.js Specialist
-I am an IT professional with over 10 years of experience, transitioning from IT support to software development. I started in 2010 with Linux and Windows Server support, networking, and computer maintenance, then moved into development, where I gained extensive experience in Java (Web, Desktop, Mobile), Spring, Flutter, Node.js (Express), and Delphi. I am proficient with databases such as Oracle, PostgreSQL, and MySQL, and have broad experience with RESTful API integrations.
+GitHub: Seu perfil GitHub (adicione o link se tiver)
 
-I am currently seeking new opportunities to apply my technical knowledge to challenging and strategic projects.
+Portfólio: Seu site/portfólio (opcional)
 
-My Skills & Technologies
+📌 Sobre Mim
+Sou um profissional multidisciplinar, com experiência tanto em infraestrutura (redes, servidores, suporte) quanto em desenvolvimento de software. Tenho facilidade para aprender novas tecnologias e trabalhar em equipe, sempre buscando entregar soluções eficientes e de alta qualidade.
 
+📄 Atualizado em Junho/2025
 
-
-
-
-
-
-
-
-&lt;br>
-
-
-
-
-
-
-
-
-
-
-GitHub Stats
-
-
-Get in Touch
-
-  ---
+👉 Pronto para colaborar em projetos inovadores! Vamos conversar? Entre em contato via e-mail ou telefone.
