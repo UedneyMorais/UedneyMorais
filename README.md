@@ -4,8 +4,16 @@ Desenvolvedor Full Stack | Java | Flutter | Node.js | Banco de Dados
 📞 (62) 99186-1075 | 📧 uedneymorais@gmail.com | 🌍 Anápolis-GO
 
 📌 Resumo Profissional
-´
-Profissional de TI com mais de 10 anos de experiência, atuando desde suporte técnico até desenvolvimento de software. Expertise em Java (web, desktop, mobile), Flutter, Node.js, Delphi, e bancos de dados como Oracle, PostgreSQL e MySQL. Experiência em automação industrial, APIs RESTful, Docker, Git e mensageria (RabbitMQ). Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e estratégicos.
+Profissional de TI com mais de 10 anos de experiência, atuando desde suporte técnico até desenvolvimento de software.
+
+Expertise em:
+✅ Java (Spring, JSF, Swing, Android)
+✅ Flutter/Dart (Mobile Android, Web)
+✅ Node.js (Express), Angular, Delphi 7/12
+✅ Bancos de dados: Oracle, PostgreSQL, MySQL
+✅ Automação industrial, APIs RESTful, Docker, Git, RabbitMQ
+
+Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e estratégicos.
 
 🛠 Habilidades Técnicas
 Linguagens & Frameworks
@@ -78,3 +86,4 @@ Sou um profissional multidisciplinar, com experiência tanto em infraestrutura (
 📄 Atualizado em Junho/2025
 
 👉 Pronto para colaborar em projetos inovadores! Vamos conversar? Entre em contato via e-mail ou telefone.
+
