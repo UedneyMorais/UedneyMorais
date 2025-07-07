@@ -12,7 +12,7 @@ Expertise em:<br>
 ✅ Flutter/Dart (Mobile Android, Web)<br>
 ✅ Node.js (Express), Angular, Delphi 7/12<br>
 ✅ Bancos de dados: Oracle, PostgreSQL, MySQL<br>
-✅ Automação industrial, APIs RESTful, Docker, Git, RabbitMQ<br>
+✅ APIs RESTful, Docker, Git, RabbitMQ<br>
 
 Busco oportunidades para aplicar meus conhecimentos em projetos desafiadores e estratégicos.<br>
 
