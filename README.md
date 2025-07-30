@@ -63,6 +63,9 @@ Analista Desenvolvedor | 2010 - 2013<br>
 Suporte a usuários, administração de servidores Linux/Windows.<br>
 Manutenção de redes e computadores.<br>
 
+📌 Portfólio<br>
+https://uedneymorais.github.io/portfolio/
+
 🎓 Formação Acadêmica<br>
 Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
 📅 2018 - 2021 | Faculdade Anhanguera - Anápolis-GO<br>
